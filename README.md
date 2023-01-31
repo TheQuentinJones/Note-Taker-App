@@ -24,7 +24,7 @@
 
   This application is deployed on the internet. There is no installation necessary. If you would like to, you can copy the code from the repo and use npm i to install the node_modules and run the application on your local computer. Here is a link to the deployed application:
 
-  https://thequentinjones.github.io/Note-Taker-App/
+  https://notifymecapn.herokuapp.com/
 
 
   ## Usage
